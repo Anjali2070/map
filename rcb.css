@@ -1,0 +1,16 @@
+body{ 
+    text-align: center; 
+    margin-top: 100px; 
+    background-color: palevioletred; 
+    height: 2px; 
+   } 
+   h1{ 
+    color: #dee2e6; 
+    margin-bottom: 60px; 
+   } 
+   #logo{ 
+    padding: 30px; 
+   } 
+   #cup{ 
+    padding-top: 20px; 
+   } 
